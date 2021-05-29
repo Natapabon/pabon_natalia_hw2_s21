@@ -1,3 +1,3 @@
-# My Typography homework Nº 1
+# My Typography homework Nº 2
 
-the files organization of the project!
+Typography project
